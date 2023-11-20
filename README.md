@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ["Awaaz - the real Therapy"](awaaz-tawny.vercel.app) and 
 
-- 🌱 I’m currently learning **Web Dev and Dsa in Java**
+- 🌱 I’m currently learning **Web Technologies and DSA in Java**
 
 - 💬 Ask me about **Flask, Python, java and Web Dev**
 
