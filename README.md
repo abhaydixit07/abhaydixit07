@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Dixit</h1>
 <h3 align="center">A passionate Web Enthusiast and Python developer</h3>
 
-- 🔭 I’m currently working on ["Awaaz - the real Therapy"](awaaz-tawny.vercel.app)
+- 🔭 I’m currently working on ["Awaaz - the real Therapy"](awaaz-tawny.vercel.app) and 
 
 - 🌱 I’m currently learning **Web Dev and Dsa in Java**
 
