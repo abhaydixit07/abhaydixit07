@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Dixit</h1>
 <h3 align="center">A passionate Web Enthusiast and Python developer</h3> 
 
- <h4 align="center">![](https://komarev.com/ghpvc/?username=abhaydixit07&color=blue)</h4>
+ 
 
 - 🔭 I’m currently working on ["Awaaz - the real Therapy"](https://github.com/abhaydixit07/Awaaz-react) and [Content Management System](https://github.com/abhaydixit07/CMS_PHP)
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **abhaydixit227@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CKJJqfYU7K0wRncogu8FUIJuwtAbAAJr/view?usp=sharing](https://drive.google.com/file/d/1CKJJqfYU7K0wRncogu8FUIJuwtAbAAJr/view?usp=sharing)
+-  📜![](https://komarev.com/ghpvc/?username=abhaydixit07&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
