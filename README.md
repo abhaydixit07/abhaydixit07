@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on ["Awaaz - the real Therapy"](https://github.com/abhaydixit07/Awaaz-react) and [Content Management System](https://github.com/abhaydixit07/CMS_PHP)
 
 - 🌱 I’m currently learning **Web Technologies and DSA in Java**
+![](https://komarev.com/ghpvc/?username=abhaydixit07&color=blue)
 
 - 😁🙌 Check out my work [NexusQuill - a BlogVerse](https://github.com/abhaydixit07/NexusQuill) and [EcoJet_Alert](https://github.com/abhaydixit07/EcoJet_Alert)
 
