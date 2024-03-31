@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Enthusiast and Python developer</h3> 
 
 # 💫 About Me:
-🔭 I’m currently working on a MeetBot and TradeCraft - a stock portfolio MS.<br>🌱 I’m currently learning Machine Learning and Data Structures.<br>💬 Ask me about Web Development and Python.<br>📫 How to reach me **abhaydixit227@gmail.com**.<br>📄 Know about my experiences [https://drive.google.com/file/d/1xnX409m42BUs0A1XX129GyZLPsiixs5i/view?usp=sharing](https://drive.google.com/file/d/1xnX409m42BUs0A1XX129GyZLPsiixs5i/view?usp=sharing)<br>⚡ Fun fact I have a Decent knowledge of Movies.
+🔭 I’m currently working on a MeetBot and TradeCraft - a stock portfolio MS.<br>🌱 I’m currently learning Machine Learning and Data Structures.<br>💬 Ask me about Web Development and Python.<br>📫 How to reach me **abhaydixit227@gmail.com**.<br>📄 Know about my experiences [https://drive.google.com/file/d/1xnX409m42BUs0A1XX129GyZLPsiixs5i/view?usp=sharing](https://drive.google.com/file/d/1xnX409m42BUs0A1XX129GyZLPsiixs5i/view?usp=sharing)<br>⚡ Fun fact- I have a Decent knowledge of Movies.
 
 
 ## 🌐 Socials:
