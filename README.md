@@ -110,8 +110,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhaydixit07&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<img src="https://raw.githubusercontent.com/abhaydixit07/abhaydixit07/output/snake.svg" alt="Snake animation" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhaydixit07&limit=5&theme=dracula&combine_all_yearly_contributions=true)
