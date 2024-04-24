@@ -34,7 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaydixit07&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="abhaydixit07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaydixit07&show_icons=true&theme=tokyonight&locale=en" alt="abhaydixit07" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaydixit07&theme=highcontrast" alt="abhaydixit07" /></p>
 
 
