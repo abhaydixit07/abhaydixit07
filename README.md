@@ -31,10 +31,9 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaydixit07&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="abhaydixit07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaydixit07&show_icons=true&theme=tokyonight&locale=en" alt="abhaydixit07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaydixit07&theme=dark" alt="abhaydixit07" /></p>
+![](https://github-readme-stats.vercel.app/api?username=abhaydixit07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhaydixit07&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaydixit07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
