@@ -1,44 +1,376 @@
-<h1 align="center">Hi  👋, I'm Abhay Dixit</h1>
-<h3 align="center">A passionate Web Enthusiast and Python developer</h3> 
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on [Ayurguru - An ayurveda chatbot](https://github.com/abhaydixit07/ayurguru-frontend).<br>🌱 I’m currently learning Machine Learning and Data Structures.<br>💬 Ask me about Web Development and Python.<br>📫 How to reach me **abhaydixit227@gmail.com**.<br>📄 Know about my experiences [https://drive.google.com/file/d/1xnX409m42BUs0A1XX129GyZLPsiixs5i/view?usp=sharing](https://drive.google.com/file/d/1xnX409m42BUs0A1XX129GyZLPsiixs5i/view?usp=sharing)<br>⚡ Fun fact- I have a Decent knowledge of Movies.
+# 👨‍💻 ABHAY DIXIT
 
+### Full Stack Developer | AI Engineer | Innovation Enthusiast
 
-## 🌐 Socials:
-<div align="left">
-  <a href="abhaydixit227@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/abhay.dixit07/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abhay-dixit-546b85254/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/AbhayDixit227" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Web+Platforms;AI+Integration+Specialist;Product-Minded+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-dixit-546b85254/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhaydixit.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaydixit227@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbhayDixit227)
+
 </div>
 
-# 💻 Tech Stack:
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-388.gif"  />
+---
 
+## 🚀 About Me
 
+> *"Passionate about building scalable web platforms and intelligent systems that make a difference"*
 
+```javascript
+const abhay = {
+    location: "New Delhi, India",
+    education: "B.Tech. IT @ GGSIPU | CGPA: 8.76/10",
+    currentFocus: ["AI Integration", "Full Stack Development", "Product Design"],
+    workExperience: {
+        current: "SDE Intern @ Spedaxai",
+        previous: ["SDC-USICT Developer", "InnovateCloud Solutions"],
+        achievements: ["Built AI-driven platforms", "Deployed production systems"]
+    },
+    funFact: "Cinema enthusiast with decent movie knowledge 🎬"
+};
+```
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+<div align="center">
 
+### 🏆 Achievement Highlights
 
-# 📊 GitHub Stats:
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=abhaydixit07&theme=tokyonight&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhaydixit07&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaydixit07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆-Winner-FFD700?style=for-the-badge" /><br/>
+      <b>Code Cubicle 3.0</b><br/>
+      <sub>Mastercard & Geek Room</sub><br/>
+      <sub>3000+ teams</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌟-Top_100-00C7B7?style=for-the-badge" /><br/>
+      <b>Google Cloud AI Hackathon</b><br/>
+      <sub>Asia Pacific Region</sub><br/>
+      <sub>23,000+ participants</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯-Finalist-FF6B6B?style=for-the-badge" /><br/>
+      <b>HackFest Delhi/NCR</b><br/>
+      <sub>GeeksforGeeks</sub><br/>
+      <sub>Top 16</sub>
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhaydixit07&icon=2&color=12)](https://visitcount.itsvg.in)
 
+## 💼 Professional Journey
+
+<details open>
+<summary><b>🔷 SDE Intern @ Spedaxai</b> <i>(Sep 2025 - Oct 2025)</i></summary>
+<br/>
+
+- 🤖 Developed end-to-end AI-driven platform with Google Gemini integration
+- 🏗️ Built full-stack architecture using Node.js, Express.js, MySQL & Next.js
+- 🧠 Implemented vector databases for AI agent functionality
+- 🚀 Managed complete deployment pipeline (frontend + backend)
+- 💡 Contributed to product strategy and feature ideation
+
+**Tech Stack:** `Node.js` `Express.js` `MySQL` `React.js` `Next.js` `Google Gemini` `Vector DB`
+
+</details>
+
+<details>
+<summary><b>🔷 Full Stack Developer @ SDC-USICT</b> <i>(May 2024 - May 2025)</i></summary>
+<br/>
+
+- 🌐 Core developer for SDC-USICT official website ([sdc.ggsipu.ac.in](https://sdc.ggsipu.ac.in/))
+- 🎯 Program Coordinator for Anugoonj 2025 Website ([anugoonj.in](https://www.anugoonj.in/))
+- ⚡ Led development initiatives and design implementation
+
+**Tech Stack:** `React.js` `TypeScript` `Next.js` `Node.js` `Tailwind CSS` `Google Cloud`
+
+</details>
+
+<details>
+<summary><b>🔷 Full Stack Developer Intern @ InnovateCloud Solutions</b> <i>(Jun 2025 - Aug 2025)</i></summary>
+<br/>
+
+- 🔧 Built production web applications with modern tech stack
+- 🤖 Integrated AI-powered features using cloud-based models
+- 📊 Worked with PostgreSQL and backend services
+
+**Tech Stack:** `Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `AI APIs`
+
+</details>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### 🤖 AI & ML
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🌟 Spotlight Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [ScribeAI](https://scribeai-lake.vercel.app/)
+**AI-Powered PDF Note-Taking**
+
+Transform your PDFs into intelligent notes! Ask questions, get AI-generated summaries, and create beautiful notes with a rich text editor.
+
+**🔧 Tech:** `Next.js` `LangChain` `Google Gemini` `Text Embedding 004` `ConvexDB`
+
+**✨ Features:**
+- 📄 PDF upload & processing
+- 🧠 AI-powered Q&A
+- 📝 Smart note generation
+- 🔍 Semantic search
+
+</td>
+<td width="50%">
+
+### 🚨 [ResQAI](https://resqai-96420221158.us-central1.run.app/)
+**AI Disaster Response System**
+
+Enhanced disaster coordination platform connecting government, citizens, volunteers & NGOs with real-time AI insights.
+
+**🔧 Tech:** `Next.js` `Vertex AI` `Google Maps API` `Flask` `Socket.IO`
+
+**✨ Features:**
+- 🚨 Real-time disaster alerts
+- 🗺️ Geospatial analysis
+- 🤖 AI-driven predictions
+- 💬 Collaborative chat system
+
+**🏆 Top 100 @ Google Cloud AI Hackathon**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 [Talx](https://talx.vercel.app/)
+**AI-Integrated Job Portal**
+
+Smart job portal with AI-powered resume analysis and career guidance. Find your perfect job with intelligent assistance.
+
+**🔧 Tech:** `React` `Node.js` `MongoDB` `Gemini 2.0` `LLaMA 3.3` `Flask`
+
+**✨ Features:**
+- 📄 ResumeAI analyzer
+- 🤖 LLaMA-powered chat assistant
+- 📰 BulletinBuzz news feed
+- 📊 Applicant data export
+
+</td>
+<td width="50%">
+
+### 👥 [CodeHive](https://codehive-lake.vercel.app/)
+**Collaborative Coding Platform**
+
+Real-time collaborative coding with video calls, chat, and AI assistance. Code together, better.
+
+**🔧 Tech:** `Next.js` `Socket.io` `WebRTC` `Monaco Editor` `LLaMA 3.3`
+
+**✨ Features:**
+- 👨‍💻 6+ language support
+- 🎥 Video calling & chat
+- 🤖 AI coding assistant (Genie)
+- 🎨 20+ editor themes
+- 📸 Code export functionality
+
+**📈 50% productivity increase**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌿 [AyurGuru](https://ayurguru.vercel.app/)
+**Ayurvedic AI Chatbot**
+
+AI-powered Ayurvedic health consultations with personalized wellness guidance and medical report analysis.
+
+**🔧 Tech:** `React` `Flask` `Gemini 2.5` `Gemma` `LangChain` `MongoDB`
+
+**✨ Features:**
+- 💬 Real-time AI consultations
+- 📄 Medical report analysis
+- 🔐 Secure & intuitive
+- 📊 Data-driven insights
+
+</td>
+<td width="50%">
+
+### 🎓 [EduSync](https://github.com/abhaydixit07/Edusync-Frontend)
+**AI Learning for Neurodiverse Students**
+
+Personalized voice-based learning platform for students with autism, dyslexia, ADHD & speech disorders.
+
+**🔧 Tech:** `React` `Node.js` `PostgreSQL` `LLaMA 3.1` `Streamlit` `PyAudio`
+
+**✨ Features:**
+- 🗣️ Pronunciation training
+- 🎤 Voice-based learning
+- 🤖 Generative AI chatbot
+- 📈 35% pronunciation accuracy boost
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhaydixit07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaydixit07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaydixit07&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaydixit07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Score |
+|---------------|--------|-------|
+| 🎯 **Oracle Cloud Infrastructure 2024 Generative AI Professional** | Oracle | 95/100 |
+| 🌐 **Web Development Bootcamp** | Udemy | ✅ Completed |
+| 🔧 **Meta Version Control** | Meta | ✅ Completed |
+| ☁️ **Google Cloud AI for Impact Hackathon** | Google | 🏆 Top 100 |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### 💬 I'm always open to interesting conversations and collaboration opportunities!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-dixit-546b85254/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhaydixit.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaydixit227@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhay.dixit07/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbhayDixit227)
+
+<br/>
+
+**📍 Location:** New Delhi, India  
+**🎓 Education:** B.Tech IT @ GGSIPU | CGPA: 8.76/10  
+**💼 Open to:** Full-time opportunities | Freelance projects | Collaborations
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=abhaydixit07&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+
+---
+
+### ⚡ Fun Fact
+
+*When I'm not coding, you'll find me analyzing movies and their cinematography. Ask me about any film! 🎬*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+**Made with ❤️ and lots of ☕**
+
+</div>
